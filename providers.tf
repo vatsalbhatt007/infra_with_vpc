@@ -29,7 +29,7 @@ variable "private_subnet_cidr" {
 
 variable "ami" {
   description = "Amazon Linux AMI"
-  default = "ami-4fffc834"
+  default = "ami-01bbe152bf19d0289"
 }
 
 variable "key_path" {
